@@ -16,6 +16,7 @@ const Menu = ({items}) => {
         </div>
       </article>
     })}
+    <br/>
   </div>;
 };
 
